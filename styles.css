@@ -45,6 +45,11 @@ h1{
     text-align: center;
 }
 
+p{
+    text-align: center;
+    font-size:12px;
+}
+
 div ul{
     display:flex;
     flex-direction: column;
